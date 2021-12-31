@@ -4,5 +4,5 @@ node_modules
 .DS_Store
 src/.temp
 dist
-.env
-.env.*
+# .env
+# .env.*
